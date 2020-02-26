@@ -1,0 +1,10 @@
+#Canvas_Wrapper {
+    position: relative;
+}
+
+#Canvas_Player,#Canvas_Background {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
